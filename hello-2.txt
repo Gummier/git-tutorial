@@ -1,1 +1,2 @@
 this is another file.
+This is a feature developed by other developer.
